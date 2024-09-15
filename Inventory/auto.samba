@@ -1,2 +1,0 @@
-s    -fstype=cifs,multiuser,cruid=$USER,sec=krb5,domain=thost.ru,vers=1.0 ://thost/tdirectory1
-o    -fstype=cifs,multiuser,cruid=$USER,sec=krb5,domain=thost.ru,vers=1.0 ://thost/tdirectory2
